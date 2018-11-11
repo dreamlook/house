@@ -1,0 +1,2 @@
+cd .
+HEXBIN MAGTEST.hex MAGTEST.BIN I 1
